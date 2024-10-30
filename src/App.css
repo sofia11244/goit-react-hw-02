@@ -5,9 +5,15 @@ body{
 .title{
     font-size: 60px;
 }
+.feedback-items{
+    list-style: none;
+}
 
-
-
+.feedback-items{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 
 
 
